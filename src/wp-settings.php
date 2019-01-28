@@ -246,6 +246,8 @@ require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-blocks-controller.
 require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-block-renderer-controller.php' );
 require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-settings-controller.php' );
 require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-themes-controller.php' );
+require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-menus-controller.php' );
+require( ABSPATH . WPINC . '/rest-api/endpoints/class-wp-rest-menu-locations-controller.php' );
 require( ABSPATH . WPINC . '/rest-api/fields/class-wp-rest-meta-fields.php' );
 require( ABSPATH . WPINC . '/rest-api/fields/class-wp-rest-comment-meta-fields.php' );
 require( ABSPATH . WPINC . '/rest-api/fields/class-wp-rest-post-meta-fields.php' );
