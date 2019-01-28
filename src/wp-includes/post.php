@@ -128,8 +128,7 @@ function create_initial_post_types() {
 				'singular_name' => __( 'Navigation Menu Item' ),
 			),
 			'public'                => false,
-			'_builtin'              => true,
-			/* internal use only. don't use this when registering your own post type. */
+			'_builtin'              => true, /* internal use only. don't use this when registering your own post type. */
 			'hierarchical'          => false,
 			'rewrite'               => false,
 			'delete_with_user'      => false,
