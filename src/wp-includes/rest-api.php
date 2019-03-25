@@ -276,6 +276,24 @@ function create_initial_rest_routes() {
 	$controller = new WP_REST_Themes_Controller;
 	$controller->register_routes();
 
+	// Menu Items.
+	$controller = new WP_REST_Menu_Items_Controller( 'nav_menu_item' );
+	$controller->register_routes();
+
+	// Menus.
+	$controller = new WP_REST_Menus_Controller( 'nav_menu' );
+	$controller->register_routes();
+
+	// Menu Locations.
+	$controller = new WP_REST_Menu_Locations_Controller();
+	$controller->register_routes();
+
+	// Menu Settings.
+	$controller = new WP_REST_Menu_Settings_Controller();
+	$controller->register_routes();
+
+
+
 }
 
 /**
