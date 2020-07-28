@@ -89,7 +89,7 @@
 		"@wordpress/components": "9.2.6",
 		"@wordpress/compose": "3.11.0",
 		"@wordpress/core-data": "2.12.3",
-		"@wordpress/data": "4.14.2",
+		"@wordpress/data": "4.21.0",
 		"@wordpress/data-controls": "1.8.2",
 		"@wordpress/date": "3.8.0",
 		"@wordpress/deprecated": "2.7.0",
