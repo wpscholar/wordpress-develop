@@ -78,7 +78,7 @@
 		"@babel/polyfill": "7.4.4",
 		"@wordpress/a11y": "2.7.0",
 		"@wordpress/annotations": "1.12.3",
-		"@wordpress/api-fetch": "3.11.0",
+		"@wordpress/api-fetch": "3.18.0",
 		"@wordpress/autop": "2.6.0",
 		"@wordpress/blob": "2.7.0",
 		"@wordpress/block-directory": "1.5.8",
