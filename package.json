@@ -115,7 +115,7 @@
 		"@wordpress/primitives": "1.1.0",
 		"@wordpress/priority-queue": "1.5.1",
 		"@wordpress/redux-routine": "3.7.0",
-		"@wordpress/rich-text": "3.12.2",
+		"@wordpress/rich-text": "3.19.0",
 		"@wordpress/server-side-render": "1.8.6",
 		"@wordpress/shortcode": "2.6.0",
 		"@wordpress/token-list": "1.9.0",
